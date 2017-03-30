@@ -1,5 +1,5 @@
-# MoonDroid
-Develop Android apps with MoonScript and LuaJ
+# Sample Lua
+MoonScript and LuaJ
 
 
 ##Dependencies
@@ -143,6 +143,3 @@ public class MoonActivity extends Activity implements ResourceFinder {
 }
 
 ```
-
-##License
-All dependencies hold their respective license. However, other parts of this repo written by me are free to use, modify and extend.
